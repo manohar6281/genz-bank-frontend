@@ -1,4 +1,4 @@
-const API_URL = "http://genz-bank-backend.onrender.com/api/accounts";
+const API_URL = "https://genz-bank-backend.onrender.com/api/accounts";
 
 
 // =========================================
